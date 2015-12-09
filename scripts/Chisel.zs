@@ -13,7 +13,6 @@ recipes.addShaped(<chisel:granite:1> * 4, [[<chisel:granite>, <chisel:granite>],
 mods.chisel.Groups.addVariation("end_Stone", <Botania:endStoneBrick>);
 mods.chisel.Groups.addVariation("end_Stone", <Botania:endStoneBrick:1>);
 mods.chisel.Groups.addVariation("end_Stone", <minecraft:end_stone>);
-mods.chisel.Groups.addVariation("end_Stone", <etfuturum:end_bricks>);
 mods.chisel.Groups.addVariation("end_Stone", <TConstruct:decoration.multibrick:12>);
 mods.chisel.Groups.addVariation("end_Stone", <TConstruct:decoration.multibrickfancy:12>);
 

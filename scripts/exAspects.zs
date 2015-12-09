@@ -234,7 +234,6 @@ mods.thaumcraft.Aspects.set(<ThermalFoundation:material:75>, "metallum 3, machin
 mods.thaumcraft.Aspects.set(<ThermalFoundation:material:76>, "metallum 3, alienis 2, lucrum 2, potentia 1"); //Enderium
 mods.thaumcraft.Aspects.set(<ThermalFoundation:material:72>, "metallum 3, machina 1, ordo 1"); //Invar
 mods.thaumcraft.Aspects.set(<ThermalFoundation:material:68>, "metallum 1, machina 1, ordo 2"); //Nickel
-mods.thaumcraft.Aspects.set(<BigReactors:BRIngot:3>, "metallum 1, potentia 2, veneum 1, permutatio 2"); //Blutonium
 
 mods.thaumcraft.Aspects.set(<Thaumcraft:ItemNugget>, "metallum 1");
 

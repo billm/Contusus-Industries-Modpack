@@ -3,8 +3,6 @@
 
 // Endermen head exchange
 // recipes.addShapeless(<EnderIO:blockEndermanSkull>, [<IguanaTweaksTConstruct:skullItem>]);
-recipes.addShapeless(<IguanaTweaksTConstruct:skullItem>, [<HardcoreEnderExpansion:enderman_head>]);
-recipes.addShapeless(<HardcoreEnderExpansion:enderman_head>, [<EnderIO:blockEndermanSkull>]);
 
 /* Compacting fixes */
 <ore:nuggetDiamond>.addAll(<ore:diamondNugget>);
@@ -16,6 +14,10 @@ recipes.addShapeless(<aobd:nuggetOsmium> * 9, [<Mekanism:Ingot:1>]);
 // sawdust Unification
 <ore:pulpWood>.addAll(<ore:dustWood>);
 <ore:dustWood>.mirror(<ore:pulpWood>);
+
+// Silicon Unification -- EnderIO / ELN
+<ore:itemSilicon>.addAll(<ore:dustSilicon>);
+<ore:dustSilicon>.mirror(<ore:itemSilicon>);
 
 // Creotorches
 recipes.addShaped(<minecraft:torch> * 8, [[<ore:fuelCoke>], [<ore:stickWood>]]);

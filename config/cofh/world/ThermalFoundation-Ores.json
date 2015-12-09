@@ -6,7 +6,7 @@
         "numClusters": 10,
         "minHeight": 40,
         "maxHeight": 75,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -24,7 +24,7 @@
         "numClusters": 8,
         "minHeight": 20,
         "maxHeight": 55,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -45,7 +45,7 @@
         "numClusters": 6,
         "minHeight": 5,
         "maxHeight": 30,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -66,7 +66,7 @@
         "numClusters": 8,
         "minHeight": 10,
         "maxHeight": 35,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -81,10 +81,10 @@
         "template": "uniform",
         "block": {"name": "ThermalFoundation:Ore", "metadata": 4},
         "clusterSize": 4,
-        "numClusters": 3,
+        "numClusters": 6,
         "minHeight": 5,
         "maxHeight": 20,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -103,10 +103,10 @@
             {"name": "ThermalFoundation:Ore", "metadata": 4, "weight": 20}
         ],
         "clusterSize": 3,
-        "numClusters": 1,
+        "numClusters": 3,
         "minHeight": 5,
         "maxHeight": 30,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
             "all"
@@ -124,7 +124,7 @@
         "numClusters": 8,
         "minHeight": 48,
         "maxHeight": 96,
-        "retrogen": "true",
+        "retrogen": "false",
         "biomeRestriction": "none",
         "biomes": [
             "all"

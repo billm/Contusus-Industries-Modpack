@@ -16,6 +16,7 @@ recipes.addShapeless(<aobd:nuggetOsmium> * 9, [<Mekanism:Ingot:1>]);
 <ore:dustWood>.mirror(<ore:pulpWood>);
 
 // Silicon Unification -- EnderIO / ELN
+// Only seems to work in the TE furnaces
 <ore:itemSilicon>.addAll(<ore:dustSilicon>);
 <ore:dustSilicon>.mirror(<ore:itemSilicon>);
 

@@ -5,8 +5,8 @@
 // recipes.addShapeless(<EnderIO:blockEndermanSkull>, [<IguanaTweaksTConstruct:skullItem>]);
 
 /* Compacting fixes */
-<ore:nuggetDiamond>.addAll(<ore:diamondNugget>);
-<ore:diamondNugget>.mirror(<ore:nuggetDiamond>);
+//<ore:nuggetDiamond>.addAll(<ore:diamondNugget>);
+//<ore:diamondNugget>.mirror(<ore:nuggetDiamond>);
 
 // Nuggets
 recipes.addShapeless(<aobd:nuggetOsmium> * 9, [<Mekanism:Ingot:1>]);
